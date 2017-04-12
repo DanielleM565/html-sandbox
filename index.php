@@ -20,6 +20,48 @@
 			<p>This is a link to my favorite website: <a href="http://www.tacoipsum.com/" target="_blank">taco</a></p>
 			<p>This is a link to an internal page: <a href="about/index.php">About Page</a></p>
 
+			<h2>Here are a few of my favorite things:</h2>
+			<ul>
+				<li>Camping</li>
+				<li>Hiking</li>
+				<li>Rock Climbing</li>
+				<li>Jogging</li>
+				<li>Photography</li>
+			</ul>
+			<h2>Here is a list of my favorites places to travel:</h2>
+			<ol>
+				<li>Denver</li>
+				<li>Seattle</li>
+				<li>New York</li>
+				<li>Boston</li>
+			</ol>
+
+			<!--Seeming simple table -->
+
+			<h2>Cats &amp; Dogs</h2>
+			<table>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Tabby</td>
+					<td>Bulldog</td>
+				</tr>
+				<tr>
+					<td>Persian</td>
+					<td>Beagle</td>
+				</tr>
+				<tr>
+					<td>Senator</td>
+					<td>Janitor</td>
+				</tr>
+				<tr>
+					<td>Grumpy</td>
+					<td>Happy</td>
+				</tr>
+			</table>
+
 		</main>
 	</body>
 </html>
