@@ -23,7 +23,7 @@
 			<p>This is a link to my favorite website: <a href="http://www.tacoipsum.com/" target="_blank">taco</a></p>
 			<p>This is a link to an internal page: <a href="about/index.php">About Page</a></p>
 
-			<h2>Here are a few of my favorite things:</h2>
+			<h2> Here are a few of my favorite things:</h2>
 			<ul>
 				<li>Camping</li>
 				<li>Hiking</li>
