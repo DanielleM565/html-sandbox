@@ -6,6 +6,9 @@
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
+		<!-- what not to do -->
+		<!-- <style> { color: red} </style> -->
+
 		<!-- Customer JavaScript -->
 		<script type="text/javascript" src="javascript/scripts.js"></script>
 
